@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1413466013_2451337950_2955715613.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_1884374942_3085067010.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_565976553_3284659116.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_4186657030_1919791095.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_1186315469_1713391116.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_2793663232_4098875993.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_2131976885_745824050.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_2448659971_4058626771.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/PolygonTransform/1672018281_329969645_2409065931.mp4'

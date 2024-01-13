@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/DotTransform/1413466013_3315967912_645035964.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/DotTransform/1672018281_3230033906_2358810818.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/DotTransform/1672018281_329969645_3144310642.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/DotTransform/1672018281_1969442930_2648214471.mp4'
+file 'file:C:/Users/Drake/Home/Programming/Python/MathAnimationProjects/media/videos/ManimProjects/1080p60/partial_movie_files/DotTransform/1672018281_329969645_2352240293.mp4'
